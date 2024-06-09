@@ -56,6 +56,4 @@ from large datasets.
 - [GitHub 
 Repository](https://github.com/ritiksohane/large-data-processing-statistical-modeling)
 - [Project 
-Site](https://ritiksohane.github.io/large-data-processing-statistical-modeling)# 
-large-data-processing-statistical-modeling
-A project on large data sets processing and statistical modeling/ML
+Site](https://ritiksohane.github.io/large-data-processing-statistical-modeling)

@@ -31,10 +31,16 @@ Reviews](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews)
 
 4. **Machine Learning**
    - Random Forest Classifier
+   - Sentiment Analysis
    - Model evaluation and tuning
 
 5. **Visualization**
    - Sales trend analysis
+   - Sentiment score distribution
+   - Sentiment scores across different ratings
+   - Rating count plot
+   - Helpfulness vs. Sentiment scatter plot
+   - Word clouds of positive and negative reviews
 
 ## Results
 - Key insights from EDA
